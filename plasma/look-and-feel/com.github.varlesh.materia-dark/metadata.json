@@ -1,0 +1,18 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "com.github.varlesh.materia-dark",
+    "Name": "Materia Dark",
+    "Description": "Materia Dark",
+    "Version": "20220823",
+    "License": "GPLv3",
+    "Category": "Look and Feel",
+    "EnabledByDefault": false,
+    "Authors": [
+      {
+        "Name": "Alexey Varfolomeev"
+      }
+    ],
+    "Website": "https://github.com/PapirusDevelopmentTeam/materia-kde"
+  }
+}

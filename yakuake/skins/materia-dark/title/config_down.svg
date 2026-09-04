@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <g transform="translate(1,1)">
+  <rect style="opacity:0.001" width="24" height="24" x="-1" y="-1"/>
+  <circle style="opacity:0.19;fill:#ffffff" cx="11" cy="11" r="12"/>
+  <path style="opacity:1;fill:#dfdfdf" d="m 7,7 v 2 h 2 4 2 V 7 Z m 0,3 v 2 h 8 v -2 z m 0,3 v 2 h 8 V 13 H 13 9 Z"/>
+ </g>
+</svg>

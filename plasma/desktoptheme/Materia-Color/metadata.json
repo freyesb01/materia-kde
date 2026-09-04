@@ -1,0 +1,18 @@
+{
+  "KPackageStructure": "Plasma/Theme",
+  "KPlugin": {
+    "Id": "Materia-Color",
+    "Name": "Materia Color",
+    "Description": "Materia Color for Plasma 6",
+    "Version": "20220823",
+    "License": "GPLv3",
+    "Category": "Plasma Theme",
+    "EnabledByDefault": true,
+    "Authors": [
+      {
+        "Name": "Alexey Varfolomeev",
+        "Email": "varlesh@gmail.com"
+      }
+    ]
+  }
+}

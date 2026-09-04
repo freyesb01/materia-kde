@@ -1,0 +1,11 @@
+build/
+build-*/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+dir.txt
+*.kcache
+*.pyc
+__pycache__/
+.DS_Store
