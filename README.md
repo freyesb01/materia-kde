@@ -287,7 +287,7 @@ Reconstruir la caché de KDE con `kbuildsycoca6 --noincremental` no es obligator
 
 ## Créditos y licencia
 
-- Diseño visual original del tema Materia: **PapirusDevelopmentTeam**.
-- Port a Plasma 6 y mantenimiento de este repositorio: **Fredy Reyes**.
+- Diseño visual original del tema Materia: PapirusDevelopmentTeam.
+- Port a Plasma 6 y mantenimiento de este repositorio: freyesb01.
 
 Licencia: **GPLv3**. Consulta el archivo `LICENSE` del repositorio para el texto completo.
